@@ -28,35 +28,35 @@ annotations:
     reference: ''
     span:
       start: 3382
-      end: 4731
+      end: 4730
     note_ref: 4151eca8143a4b1a88c92cb0eedd2a4f
   b1697fa5238c4fedbb1566d0e25742a5:
     imgnum: 1869
     reference: ''
     span:
-      start: 4733
-      end: 5963
+      start: 4732
+      end: 5962
     note_ref: 4151eca8143a4b1a88c92cb0eedd2a4f
   932f68944507422e962e1019c7a0b531:
     imgnum: 1870
     reference: ''
     span:
-      start: 5965
-      end: 7228
+      start: 5964
+      end: 7225
     note_ref: 4151eca8143a4b1a88c92cb0eedd2a4f
   a143ce03f295415586ba31c8395e20af:
     imgnum: 1871
     reference: ''
     span:
-      start: 7230
-      end: 8027
+      start: 7227
+      end: 8024
     note_ref: 4151eca8143a4b1a88c92cb0eedd2a4f
   4151eca8143a4b1a88c92cb0eedd2a4f:
     imgnum: 1872
     reference: ''
     span:
-      start: 8029
-      end: 9022
+      start: 8026
+      end: 9030
 local_ids:
   44d98cb7a3824e0aba55d1212fff6362: 200000
   e03c9f3c1779433394e1cffff15efb0f: 200001
